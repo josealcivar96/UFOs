@@ -6,7 +6,7 @@ The purpose of the following analysis was to provide a easy tool to use to look 
 
 ## Results
 
-The web application is very simple and user-friendly. It may be utilized by any type of user to look up the information they are looking for. When first coming across our tool, users will be presented with the default table.
+The web application is very simple and user-friendly. It may be utilized by any type of user to look up the information they are looking for. When first coming across our tool by opening the ```index.html``` file, users will be presented with the default table.
 
 ![Default Table](static/images/defaultTable.png)
 
